@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are topics that are working currently.
+Here are the topics I'm currently working on.
 
 - WebGPU Rendering Engine 🚧
 - Hot Reloadable C++ on WebAssembly 🚧
