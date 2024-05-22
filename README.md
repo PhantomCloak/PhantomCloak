@@ -4,6 +4,7 @@ Here are the topics I'm currently working on.
 
 - WebGPU Rendering Engine - > [Go](http://phantomcloak.github.io/sponza) ✅
 - NVidia PhysX 5.1 WebAssembly Port -> [Go](http://phantomcloak.github.io/demo/physx) ✅
+- WebGPU Rendering Backend For Ozz-Animations 🚧
 - Hot Reloadable C++ on WebAssembly 🚧
 - An Web Editor for Game Engien Powered by Monaco & VsCode 🚧 
 
