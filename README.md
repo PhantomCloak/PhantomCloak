@@ -1,4 +1,4 @@
-Some topics I worked/working on:
+Things I worked/working on:
 
 - ReEngine (Chrome) -> [Demo Link](https://phantomcloak.github.io/rain-demo/)
 - WebGPU Rendering Engine (Chrome) - > [Demo Link](http://phantomcloak.github.io/demo/sponza) ✅
